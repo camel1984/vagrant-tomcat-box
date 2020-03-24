@@ -1,6 +1,7 @@
 
 # command
 
+Vagrant 2.2.7
 
 vagrant up
 
